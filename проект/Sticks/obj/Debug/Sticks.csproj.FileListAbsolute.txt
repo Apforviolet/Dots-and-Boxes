@@ -1,0 +1,19 @@
+c:\users\максим\documents\visual studio 2017\Projects\Sticks\Sticks\bin\Debug\Sticks.exe.config
+c:\users\максим\documents\visual studio 2017\Projects\Sticks\Sticks\bin\Debug\Sticks.exe
+c:\users\максим\documents\visual studio 2017\Projects\Sticks\Sticks\bin\Debug\Sticks.pdb
+c:\users\максим\documents\visual studio 2017\Projects\Sticks\Sticks\obj\Debug\Sticks.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2017\Projects\Sticks\Sticks\obj\Debug\Sticks.Properties.Resources.resources
+c:\users\максим\documents\visual studio 2017\Projects\Sticks\Sticks\obj\Debug\Sticks.csproj.GenerateResource.Cache
+c:\users\максим\documents\visual studio 2017\Projects\Sticks\Sticks\obj\Debug\Sticks.exe
+c:\users\максим\documents\visual studio 2017\Projects\Sticks\Sticks\obj\Debug\Sticks.pdb
+C:\Users\Максим\documents\visual studio 2017\Projects\Sticks\Sticks\obj\Debug\Sticks.Form1.resources
+C:\Users\Максим\Desktop\проект\Sticks\obj\Debug\Sticks.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\проект\Sticks\obj\Debug\Sticks.Form1.resources
+C:\Users\Максим\Desktop\проект\Sticks\obj\Debug\Sticks.Properties.Resources.resources
+C:\Users\Максим\Desktop\проект\Sticks\obj\Debug\Sticks.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\проект\Sticks\obj\Debug\Sticks.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\проект\Sticks\obj\Debug\Sticks.exe
+C:\Users\Максим\Desktop\проект\Sticks\obj\Debug\Sticks.pdb
+C:\Users\Максим\Desktop\проект\Sticks\bin\Debug\Sticks.exe.config
+C:\Users\Максим\Desktop\проект\Sticks\bin\Debug\Sticks.exe
+C:\Users\Максим\Desktop\проект\Sticks\bin\Debug\Sticks.pdb
